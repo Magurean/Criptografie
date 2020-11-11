@@ -1,0 +1,7 @@
+C:\Users\Andrei\source\repos\Substitutii monoalfabetice\bin\Debug\Substitutii monoalfabetice.exe.config
+C:\Users\Andrei\source\repos\Substitutii monoalfabetice\bin\Debug\Substitutii monoalfabetice.exe
+C:\Users\Andrei\source\repos\Substitutii monoalfabetice\bin\Debug\Substitutii monoalfabetice.pdb
+C:\Users\Andrei\source\repos\Substitutii monoalfabetice\obj\Debug\Substitutii monoalfabetice.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\Substitutii monoalfabetice\obj\Debug\Substitutii monoalfabetice.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Substitutii monoalfabetice\obj\Debug\Substitutii monoalfabetice.exe
+C:\Users\Andrei\source\repos\Substitutii monoalfabetice\obj\Debug\Substitutii monoalfabetice.pdb
